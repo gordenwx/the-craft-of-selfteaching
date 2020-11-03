@@ -1,5 +1,6 @@
 def is_prime(n):
     """
+    是否是质数
     Return a boolean value based upon
     whether the argument n is a prime number.
     """
